@@ -7,3 +7,6 @@ Team project
 ## Code in master branch
 
 Website url: https://test-firestore-database.firebaseapp.com/
+
+Write features turned off for security purposes... (buttons will not ovveride db) 
+  --> Will turn on if demonstration is requested.
