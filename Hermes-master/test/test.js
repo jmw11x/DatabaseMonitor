@@ -1,4 +1,4 @@
-//message test
+//Author: Jacob Wilson
 
 db.collection("Users").onSnapshot(function (snapshot) {
   snapshot.docChanges().forEach(function (change) {
@@ -14,5 +14,6 @@ db.collection("Users").onSnapshot(function (snapshot) {
     }else{
         console.log("User " + change.doc.data().UserID);
     }
+    
   });
 });
