@@ -10,7 +10,7 @@ admin.initializeApp({
 
 // // Create and Deploy Your First Cloud Functions
 // // https://firebase.google.com/docs/functions/write-firebase-functions
-//
+// Author: Jacob Wilson
 
 //  exports.onItemCreation = functions.firestore.document('Users/{UserID}')
 //     .onCreate(async(snapshot, context) => {
