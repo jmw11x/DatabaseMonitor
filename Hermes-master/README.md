@@ -1,5 +1,5 @@
 # Hermes
-This is the team repository with members: Johnathan Nguyen, Kevin Nguyen, Joel Cedric, Jacob Wilson, Sai Rampally, Isaiah Smith, Evgeniy Ko
+This is the team project repository with members: Johnathan Nguyen, Kevin Nguyen, Joel Cedric, Jacob Wilson, Sai Rampally, Isaiah Smith, Evgeniy Ko
 
 ## Report 1: Create a Sample/Test Firestore Database
 I created a test Firestore database called “Test Firestore Database” for the Mercury Management group. This database will contain made up data for the purpose of our group attempting to create our own desktop application to monitor the database before using the database with the other Mercury team. Every single member of the group has been added as an editor.
