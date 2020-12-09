@@ -1,4 +1,4 @@
-// INITIAL SETUP
+// Authors: Jacob Wilson, Kevin Nguyen
 
 //declare text and Button
 const textBox = document.getElementById("textbox");
